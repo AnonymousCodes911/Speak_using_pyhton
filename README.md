@@ -1,3 +1,3 @@
 # Speak_using_pyhton
-Make a script speak using pyhton and pyttsx3
+Make a speaking script using pyhton and pyttsx3
 
